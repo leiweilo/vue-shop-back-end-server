@@ -7,7 +7,7 @@
 	"upload_config":{
 		"baseURL":"http://42.192.86.152:8888",
 		"upload_ueditor":"uploads/ueditor",
-		"simple_upload_redirect":"http://42.192.86.152/reload",
+		"simple_upload_redirect":"http://42.192.86.152/reload"
 	},
 	"db_config" : {
 		"protocol" : "mysql",
